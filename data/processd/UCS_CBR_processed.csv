@@ -1,0 +1,6 @@
+SampleID,WA_pct,NaCl_pct,CuringTime_days,UCS_kPa,CBR_pct
+1,15,10,7,230,16
+2,15,10,14,250,18
+3,10,5,7,200,14
+4,20,10,28,260,19
+5,0,0,0,120,3

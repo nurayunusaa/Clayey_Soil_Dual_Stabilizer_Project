@@ -1,0 +1,6 @@
+SampleID,WA_pct,NaCl_pct,SwellingInitial_mm,SwellingAfter24h_mm,SwellingReduction_pct
+1,15,10,8,2,75
+2,10,5,10,4,60
+3,20,10,7,3,57
+4,0,0,12,12,0
+5,15,0,9,5,44
